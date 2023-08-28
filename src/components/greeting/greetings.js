@@ -1,4 +1,4 @@
-export { default as HelloWord } from "./HelloWord.vue";
-export { default as HelloWordTwo } from "./HelloWordTwo.vue";
-export { default as HelloWordThree } from "./HelloWordThree.vue";
-export { default as HelloWordFour } from "./HelloWordFour.vue";
+export { default as HelloWorld } from "./HelloWorld";
+export { default as HelloWorldTwo } from "./HelloWorldTwo.vue";
+export { default as HelloWorldThree } from "./HelloWorldThree.vue";
+export { default as HelloWorldFour } from "./HelloWorldFour.vue";
